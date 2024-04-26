@@ -1,0 +1,40 @@
+What is Data Profiling
+It is a process of reviewing data from an existing source, understanding its structure, content  and relationships.
+collecting descriptive statistics - Datatypes, lengths, patterns
+
+What is Data Goverance
+It is a process of managing the avaliability, usability and security of data in organization systems based on the pre-defined policies and standards.
+
+What is Data Silo
+A data silo is a collection of data  controlled by department or business unit and and isolated from the rest of an organization.
+
+Datalife Cycle
+
+Datalife cycle begins with acquiring or creating data, then it is stored.
+Data can be structured, unstructured, semi structured formats . Generally 80% of oraganizations data is unstructured format
+
+What is Data management
+Data management is an administrative process that includes acquiring, validating, storing, protecting, and processing required data to ensure
+accessibility, reliability and timeliness of the data for its users.
+
+Major Function of Data Owners create policies, put them in force for all data in an organization
+
+What is Data Retention
+Retain data as long as as its needed
+
+Data Stewardship -> Ownership
+Data policy - > Set of Guidelines
+Data standards -> 
+Metadata Mgmt -> 
+Data Lineage - > Traceability of data
+Data Cataloging -> Business Glossary
+Data Quality
+Data Security - > PII
+
+HIPAA - Data privacy regulatory in health care
+Data Sensitivity/PII
+Data Discovery
+Flag/Label
+mask
+
+
