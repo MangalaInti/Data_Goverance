@@ -2,6 +2,13 @@ What is Data Profiling
 It is a process of reviewing data from an existing source, understanding its structure, content  and relationships.
 collecting descriptive statistics - Datatypes, lengths, patterns
 
+Data Profiling :- 
+It is used to understand completeness and consistency of data
+- Understand structure 
+- content of data
+- Patterns in Data
+- how many distinct values
+
 What is Data Goverance
 It is a process of managing the avaliability, usability and security of data in organization systems based on the pre-defined policies and standards.
 
