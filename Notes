@@ -44,4 +44,11 @@ Data Discovery
 Flag/Label
 mask
 
+Data Goverance : 
+ 1. Data Security : The process of ensuring data privacy and confidentiality
+ 2. Data Quality : The process of ensuring data accuracy, consistency and completeness
+ 3. Data Lineage : The process of tracking data from its source to its destination
+ 4. Data Discovery : The process of identifying data assests  and their relationship
+ 5. Data stewardship : The process of managing data assets and their use
+
 
