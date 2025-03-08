@@ -10,17 +10,30 @@ It is used to understand completeness and consistency of data
 - how many distinct values
 
 What is Data Goverance
+Establishing  policies and procedures to manage data's use , access and lifecycle across the organization
 It is a process of managing the avaliability, usability and security of data in organization systems based on the pre-defined policies and standards.
 
 What is Data Silo
 A data silo is a collection of data  controlled by department or business unit and and isolated from the rest of an organization.
 
-Datalife Cycle
+What is Data quality
+Ensuring data is clean, consistent, accurate and reliable 
+
+
+What is Data security
+Protecting the sensitive data and ensuring complaiance and privacy regulations
+
+What is Datalife Cycle
 
 Datalife cycle begins with acquiring or creating data, then it is stored.
 Data can be structured, unstructured, semi structured formats . Generally 80% of oraganizations data is unstructured format
 
 What is Data management
+
+Data management is the process of efficiently and securely collecting, organizing, storing and maintaining data 
+throughout its lifecycle.
+Ensure data is accurate, accessible and usable for decision making and analysis
+
 Data management is an administrative process that includes acquiring, validating, storing, protecting, and processing required data to ensure
 accessibility, reliability and timeliness of the data for its users.
 
