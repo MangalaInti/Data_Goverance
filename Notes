@@ -7,7 +7,7 @@ It is used to understand completeness and consistency of data
 - Understand structure 
 - content of data
 - Patterns in Data
-- how many distinct values
+- how many distinct,non distinct  and nullvalues
 
 What is Data Goverance
 Establishing  policies and procedures to manage data's use , access and lifecycle across the organization
@@ -66,5 +66,13 @@ Data Goverance :
 
 
 Data Quality Dimensions : Accuracy, Validity, Completeness, Consistency, Uniqueness, Timeliness
+Dimension 	How its measured
+Accuracy	 How well does a piece of information reflect reality?
+Completeness	Does it fullfill user's expectations as to how fully represents the truth
+Consistency	Does information stored in one place match relevant data stored elsewhere
+Timeliness	Is your information availble when users need it
+Validity 	Is information in a specific format, does it follow business rules or is it in an unusable fomat
+Uniqueness	Is this only instance in which this informaion appears in the database
+
 
 
