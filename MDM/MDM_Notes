@@ -38,4 +38,16 @@ process to make sure that the information is sorted and formatted according to t
 stewards are in charge of handling data concerns including managing data corruption or transferring data between applications.
 
 
+One solution to centralize and synchronize data is Master Data Management.
+
+MDM	Meant to deal with different kind of data quality issues i.e. consistency and synchronization problem	
+DQ - Deals with cleansing and standardizing data. Usually focuses on batch data modifications during data movement.
+
+Talend MDM is open source tool
+
+Poor Data quality will result in inaccurate analytics
+
+Informatica MDM three tier model is the Hub console a part of? The UI/Web layer includes a set of tools that allow users to configure the environment and perform data management activities.
+
+
 
