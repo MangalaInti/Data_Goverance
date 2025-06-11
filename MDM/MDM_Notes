@@ -47,7 +47,15 @@ Talend MDM is open source tool
 
 Poor Data quality will result in inaccurate analytics
 
-Informatica MDM three tier model is the Hub console a part of? The UI/Web layer includes a set of tools that allow users to configure the environment and perform data management activities.
+Informatica MDM three tier model is the Hub console a part of? The UI/Web layer includes a set of tools that
+allow users to configure the environment and perform data management activities.
+--Match & Merge process
+Match process helps to consolidate records coming from multiple sources.
+There are 2 ways to do so
+1. Batch 2. API(SOAP -> search Match, Best result -> action = match)
+
+Two Types of matching
+1.  Fuzzy 2. Exact
 
 
 
