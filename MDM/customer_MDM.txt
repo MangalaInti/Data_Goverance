@@ -1,0 +1,32 @@
+-Customer MDM
+
+What is customer?
+customer is a person, group of people or organization
+
+What is customer account -
+customer acct is a record customer DB
+
+Customer Master Data Fields
+
+1. Vendor master record transaction Data - Acct no:, company code, purchasing organization
+2. General vendot master record - Name,Address, Phone,email, Tax_number, VAT registration number
+3. Vendor master record company code - Reconcilation Account in GL, Acct no:
+
+
+Customer Master data (CMD) - It contains information about customer/buyer 
+
+New customer accounts is found in Accounts receivable and accounts payable in
+CMDM - customer master data mgmt
+
+
+Customer master data is a repository which has key customer information - Name, address, payment, billing etc.
+customer mdm gives 360-degree view of each customer 
+
+what is supply chain?
+
+Supply chain includes all activities that involve transformation from raw materials and finished product
+that delivered to the  end customer
+
+
+
+
