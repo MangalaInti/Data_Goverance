@@ -1,0 +1,46 @@
+What is Master Data?
+Single version of Truth of data across multiple system. Golden record. It is core data essential for running operations 
+One solution to centralize and synchronize data is Master Data Management.
+Master data Domains - Vendor, customer, products
+
+Why MDM?
+MDM helps in oragnization in consistent and accurate data aross the systems for better decision making
+
+
+MDM solution
+MDM creates a central repository for master data, feeding accurate and consistent data to all applications. 
+It resolves conflicts based on defined rules and simplifies mergers and acquisitions.
+
+--Benefits of MDM 
+Reduce operational cost
+Customer satisfaction
+Inaccurate, inconsistent, and unsynchronized master data across applications leads to errors, 
+inefficiencies, and customer dissatisfaction.
+
+--MDM Implementation
+
+1.Identify sources and consumers of master data.
+2.Profile data entities (data types, attributes, owners).
+3.Establish data governance (decision-making committee, processes).
+4.Select tools for managing master data, data quality, versioning, hierarchies.
+5.Design and implement a scalable MDM infrastructure.
+6.Configure matching rules to handle duplicates and missed matches.
+7.Assign data stewards to review and maintain master data.
+8.Implement processes for ongoing maintenance and updates.
+
+
+How do we define a field as master data ?
+
+1. Infrequently changing data
+2. shared by many applications that store information for business
+e.g customer - number, name, address, phone
+
+What is Enterprise Data?
+Enterprise Data is data centered in one location and acessible to users of an oraganization.
+
+Enterprise Data  - 
+
+1. Transactional Data - Daily transactions - Billing, payments, orders - This is stored in OLTP tables, operational side of the data. 
+2. Reference data - Set permissible values - e.g. Country codes, Fixed conversion rates
+3. Meta Data  - Data about data, connection objects, 
+4. Master Data  - Core data that is essential run the  operations in business e.g - Product, customer, asset
