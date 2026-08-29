@@ -1,0 +1,8 @@
+various dimensions in MDM  - CDI, PIM
+1. What is Master Data and Master Data Management?
+• Master data is core data which does not change frequently. E.g. customer, product, employee, asset,material, location, etc
+• Master Data is distributed throughout multiple systems
+• The objective of Master Data Management is to provide and maintain a consistent view of an organization’s core
+   business entities, which may involve data that is scattered across a range of application systems.
+• This involves the consolidation of master data, cleansing and enriching the master data, and publishing it to
+   consuming applications, like CRM, Data Warehouses, etc
